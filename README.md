@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/profile.gif)](https://friedcode.com)
 <h1 align="center">Hi 👋, I'm Shoaib Qadeer</h1>
 <h3 align="center">A passionate MERN Stack & Mobile App Developer</h3>
-<img width="400" src="https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/code_g.gif" alt="iamshoaibqadeer" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/code_g.gif" alt="iamshoaibqadeer" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-qadeer&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-qadeer" /> </p>
 
