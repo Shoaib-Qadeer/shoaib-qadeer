@@ -1,12 +1,12 @@
 [![MasterHead](https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/profile.gif)](https://friedcode.com)
 <h1 align="center">Hi 👋, I'm Shoaib Qadeer</h1>
 <h3 align="center">A passionate MERN Stack & Mobile App Developer</h3>
+<img width="400" src="https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/code_g.gif" alt="iamshoaibqadeer" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-qadeer&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-qadeer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamshoaibqadeer" target="blank"><img src="https://img.shields.io/twitter/follow/iamshoaibqadeer?logo=twitter&style=for-the-badge" alt="iamshoaibqadeer" /></a> </p>
 
-<p align="right"> <a href="https://github.com/shoaib-qadeer" target="blank"><img src="https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/code_g.gif" alt="iamshoaibqadeer" /></a> </p>
 
 - 🔭 I’m currently working on **MODHOST (Online Hostel Booking)**
 
