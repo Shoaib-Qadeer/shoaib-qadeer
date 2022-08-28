@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamshoaibqadeer" target="blank"><img src="https://img.shields.io/twitter/follow/iamshoaibqadeer?logo=twitter&style=for-the-badge" alt="iamshoaibqadeer" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/iamshoaibqadeer" target="blank"><img src="https://img.shields.io/twitter/follow/iamshoaibqadeer?logo=twitter&style=for-the-badge" alt="iamshoaibqadeer" /></a> </p>
+<p align="right"> <a href="https://github.com/shoaib-qadeer" target="blank"><img src="https://raw.githubusercontent.com/Shoaib-Qadeer/shoaib-qadeer/main/code_g.gif" alt="iamshoaibqadeer" /></a> </p>
 
 - 🔭 I’m currently working on **MODHOST (Online Hostel Booking)**
 
