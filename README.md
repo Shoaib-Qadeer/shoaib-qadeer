@@ -27,7 +27,6 @@ Welcome to my GitHub! I am Shoaib, a dynamic Software Developer and Google-certi
 - Security Best Practices for Distributed Systems
 
 ## 💼 Technical Skills
-```plaintext
 Programming: Python, Go, JavaScript, Java, C++
 Frameworks: React, Node.js, Express
 Databases: MongoDB, Redis
@@ -35,7 +34,6 @@ DevOps: AWS, Azure, Kubernetes, Docker
 Operating Systems: Linux, UNIX
 
 ## 🏆 Achievements & Certifications
-```plaintext
 Google Project Management Professional Certificate
 Cloud Solutions Architect with hands-on training on AWS
 HEC Research Scholar for Science and Technology
